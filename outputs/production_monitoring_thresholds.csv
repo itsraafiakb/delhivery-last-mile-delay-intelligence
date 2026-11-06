@@ -1,0 +1,6 @@
+metric,lower_trigger,upper_trigger,window_count,window_unit
+weekly_delayed_share,0.1500,0.3000,2,consecutive_weeks
+weekly_flagged_share,0.1000,0.3500,2,consecutive_weeks
+rolling_recall,0.7000,,4,weeks
+distance_km_psi,,0.2000,1,weekly_check
+imputed_field_missing_share,,0.0500,1,weekly_check
